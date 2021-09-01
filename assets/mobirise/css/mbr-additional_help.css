@@ -12,6 +12,7 @@ body {
 .display-2 {
   font-family: 'Jost', sans-serif;
   font-size: 3rem;
+  
   line-height: 1.1;
 }
 .display-2 > .mbr-iconfont {
@@ -685,7 +686,7 @@ a {
 .cid-sHLOS72aZV {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #4479d9;
+  background-color: #7851a9;
 }
 .cid-sHLOS72aZV .mbr-section-title {
   color: #ffffff;
