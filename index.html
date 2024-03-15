@@ -132,7 +132,8 @@
     </div>
 </section>
 <script>
-    document.querySelectorAll('.date-span').html(date('Y'));
+    let currentDate = new Date();
+    document.querySelectorAll('.date-span').html(currentDate.getFullYear());
 </script>
 </body>
 </html>
